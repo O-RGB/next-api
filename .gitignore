@@ -1,0 +1,22 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore environment variable files
+.env
+.env.*
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore IDE files (e.g. PyCharm)
+.idea/
+
+bin
+include
+lib
+share
+pyvenv.cfg
